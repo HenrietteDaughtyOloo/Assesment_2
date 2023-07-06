@@ -123,7 +123,7 @@ class Species{
         this.name = name
         this.diet = diet
         this.lifeSpan=lifeSpan
-    }
+    } 
     about_animal(){
         console.log(this.name + "eats a"+ this.diet + " and on average lifes for "+ this.lifeSpan +" Years");
     }
